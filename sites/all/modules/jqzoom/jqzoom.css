@@ -1,0 +1,30 @@
+#jqzoom-container {
+  
+}
+.jqzoom-image {
+ 
+}
+.jqzoom-thumbnails {
+  
+}
+
+.jqzoom-thumbnails a {
+
+}
+
+.zoomPad, .zoomPad img {
+width: 100%;
+}
+
+.zoomWindow img {
+    max-width: none;
+    width: auto;
+}
+
+.zoomWindow img {
+    z-index: 10000;
+}
+
+.jqzoom-thumbnails img {
+    margin: 5px 5px 0 0;
+}

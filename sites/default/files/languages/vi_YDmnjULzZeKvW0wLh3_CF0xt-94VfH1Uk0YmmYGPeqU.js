@@ -1,0 +1,1 @@
+Drupal.locale = { 'strings': {"":{"Please wait...":"Vui l\u00f2ng ch\u1edd \u0111\u1ee3i...","To @title":"T\u1edbi @title "}} };
