@@ -2990,3 +2990,8 @@ font-weight:normal;
 display:none;
 }
 
+#block-md-slider-1 { display:none; }
+
+/* disclaimer block */
+#block-block-13 { padding:25px; }
+
